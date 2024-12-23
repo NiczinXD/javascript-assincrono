@@ -8,4 +8,4 @@
 #### Curso
 [Curso de JavaScript: entendendo promises e async/await](https://cursos.alura.com.br/course/javascript-entendendo-promises-async-await/task/162885);
 
-![Tela do projeto.](./img/TelaDoProjeto.png "Tela do projeto")
+![Tela do projeto.](./img/TELA-FINAL-DO-PROJETO.png "Tela do projeto")
