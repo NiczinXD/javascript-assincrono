@@ -108,6 +108,8 @@ botaoPublicar.addEventListener("click", async (evento) => {
         const resultado = await publicarProjeto(nomeDoProjeto, descricaoDoProjeto, tagsProjeto);
         console.log(resultado);
         alert("Deu tudo certo!")
+        const formulario = document.querySelector("form");
+        formulario.reset();
     } catch (error) {
         console.log("Deu errado: ", error)
         alert("Deu tudo errado!");
