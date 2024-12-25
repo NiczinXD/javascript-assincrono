@@ -115,6 +115,7 @@ botaoPublicar.addEventListener("click", async (evento) => {
         imagemPrincipal.src = "./img/imagem1.png";
         nomeDaImagem.textContent = "image_projeto.png";
         
+        listaTags.innerHTML = "";
     } catch (error) {
         console.log("Deu errado: ", error)
         alert("Deu tudo errado!");
