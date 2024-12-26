@@ -9,3 +9,5 @@
 [Curso de JavaScript: entendendo promises e async/await](https://cursos.alura.com.br/course/javascript-entendendo-promises-async-await/task/162885);
 
 ![Tela do projeto.](./img/TELA-FINAL-DO-PROJETO.png "Tela do projeto")
+
+[Link do projeto](https://javascript-assincrono-zeta.vercel.app/)
